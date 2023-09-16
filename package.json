@@ -1,0 +1,11 @@
+
+{
+  "name":"mstl",
+  "description":"MFramework is a esp32 IoT stl for useful thinks",
+  "url":"https://github.com/eotpcomic/mstl",
+  "version":"2.40.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eotpcomic/MFramework.git"
+  }
+}
