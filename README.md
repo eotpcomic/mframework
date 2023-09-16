@@ -1,4 +1,4 @@
-<img title="MFramework" alt="mtSTL" src="images/Logo mnThread.png" width="50%" align="left"></img>
+
 MFramework is a library for creating safe tasks, queues and other useful things for the esp32, in c ++.
 
 Many of the standard STL containers are replaced with their own optimized versions. Recognizable by its own namespace mofw.
